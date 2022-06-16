@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ LeCTURE NOTES
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Singular Perturbation Method (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec01)
+{{% resource_link 5d505ca4-01c5-8fe8-9713-42cb86fadacf "Singular Perturbation Method (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ LeCTURE NOTES
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Seminar in Perturbation Methods (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec02)
+{{% resource_link d62a978c-14f1-41b3-d8e6-c1b620678ff3 "Seminar in Perturbation Methods (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ LeCTURE NOTES
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Singular Perturbation Methods; Formation of Shock Waves (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec03)
+{{% resource_link 27eb8587-e352-0cfb-31f5-77761e9e53c6 "Singular Perturbation Methods; Formation of Shock Waves (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +53,7 @@ LeCTURE NOTES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-[Fundamental of Fluid Mechanics (PDF - 3.2MB)]({{< baseurl >}}/resources/mit16_121f17_lec04)
+{{% resource_link 04dbacf0-9e33-2544-82b4-92cc4f9c917a "Fundamental of Fluid Mechanics (PDF - 3.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ LeCTURE NOTES
 5
 {{< tdclose >}}
 {{< tdopen >}}
-[Linear Subsonic Flow (PDF - 2.7MB)]({{< baseurl >}}/resources/mit16_121f17_lec05)
+{{% resource_link 49059b8f-1a45-32d9-0aae-47c509a93686 "Linear Subsonic Flow (PDF - 2.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ LeCTURE NOTES
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Similarity Rules (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec06)
+{{% resource_link 1c6428ba-73bd-6506-b706-a36a2861572f "Similarity Rules (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +80,7 @@ LeCTURE NOTES
 7—9
 {{< tdclose >}}
 {{< tdopen >}}
-[Bodies of Revolution: Slender Body Theory (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec7-9)
+{{% resource_link c3dedafb-a9b7-5e74-4d89-bada6b23a91b "Bodies of Revolution: Slender Body Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +89,7 @@ LeCTURE NOTES
 10
 {{< tdclose >}}
 {{< tdopen >}}
-[Slender Body Theory (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec10)
+{{% resource_link 4d306d3a-0ab9-3ab1-f634-7fb1847a7747 "Slender Body Theory (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +98,7 @@ LeCTURE NOTES
 11
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Higher Approximations: Slope of the Lift and Moment About Mid-chord (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec11)
+{{% resource_link 60dcce0e-c9a5-96aa-42de-98558beccfe4 "Higher Approximations: Slope of the Lift and Moment About Mid-chord (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +109,7 @@ LeCTURE NOTES
 {{< tdopen >}}
 
 
-[Perturbation Methods / Overview (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec12-14)
+{{% resource_link a0155f12-5239-76ba-a028-7c5b8aa8d696 "Perturbation Methods / Overview (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -121,7 +122,7 @@ LeCTURE NOTES
 {{< tdopen >}}
 
 
-[Thin Wing Theory (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec15)
+{{% resource_link a0788e9a-29fe-1ae5-2621-76610b780dd5 "Thin Wing Theory (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -134,7 +135,7 @@ LeCTURE NOTES
 {{< tdopen >}}
 
 
-[Non-linear, Unsteady Transonic Flows (PDF)]({{< baseurl >}}/resources/mit16_121f17_lec16)
+{{% resource_link db1dfd01-337b-030d-0f45-f932335ed649 "Non-linear, Unsteady Transonic Flows (PDF)" %}}
 
 
 {{< tdclose >}}

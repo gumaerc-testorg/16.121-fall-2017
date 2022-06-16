@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This webpage provides class schedule of MIT course 16.121 Analytical
+  Subsonic Aerodynamics of fall, 2017.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
